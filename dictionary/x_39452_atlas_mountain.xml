@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Mountain" max_length="40" name="x_39452_atlas_mountain" type="collection">
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element label="Name" mandatory="true" max_length="80" name="name" type="string"/>
+        <element label="Sponsor" mandatory="true" max_length="32" name="sponsor" reference="sys_user" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Target Completion Date" mandatory="true" max_length="40" name="target_completion_date" type="glide_date"/>
+        <index name="index">
+            <element name="sponsor"/>
+        </index>
+    </element>
+</database>

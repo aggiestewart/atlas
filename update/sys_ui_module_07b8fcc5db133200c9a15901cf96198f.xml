@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Mountain">a58828c1db133200c9a15901cf961905</application>
+        <filter/>
+        <name>Expeditions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_39452_atlas_expedition_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>jonathan.stewart</sys_created_by>
+        <sys_created_on>2017-06-10 02:08:33</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>07b8fcc5db133200c9a15901cf96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expeditions</sys_name>
+        <sys_package display_value="Atlas" source="x_39452_atlas">e476e001db133200c9a15901cf961914</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
+        <sys_update_name>sys_ui_module_07b8fcc5db133200c9a15901cf96198f</sys_update_name>
+        <sys_updated_by>jonathan.stewart</sys_updated_by>
+        <sys_updated_on>2017-06-10 02:08:33</sys_updated_on>
+        <table>x_39452_atlas_expedition</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

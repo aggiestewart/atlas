@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Expedition" language="en" table="x_39452_atlas_expedition">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Expedition</label>
+            <language>en</language>
+            <name>x_39452_atlas_expedition</name>
+            <plural>Expeditions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jonathan.stewart</sys_created_by>
+            <sys_created_on>2017-06-10 02:08:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1bb87009db133200c9a15901cf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Expedition</sys_name>
+            <sys_package display_value="Atlas" source="x_39452_atlas">e476e001db133200c9a15901cf961914</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
+            <sys_update_name>sys_documentation_x_39452_atlas_expedition__en</sys_update_name>
+            <sys_updated_by>jonathan.stewart</sys_updated_by>
+            <sys_updated_on>2017-06-10 02:08:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

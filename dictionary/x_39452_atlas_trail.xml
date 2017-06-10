@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Trail" max_length="40" name="x_39452_atlas_trail" type="collection">
+        <element label="Expedition" max_length="40" name="expedition" reference="x_39452_atlas_expedition" type="reference"/>
+        <element label="Guide" max_length="32" name="guide" reference="sys_user" type="reference"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="guide"/>
+        </index>
+    </element>
+</database>
