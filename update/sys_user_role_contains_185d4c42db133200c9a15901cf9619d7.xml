@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="report_group" name="report_group">8a562cd0c0a8010701ec463995abf6fb</contains>
+        <role display_value="x_39452_atlas.guide" name="x_39452_atlas.guide">7fcccc42db133200c9a15901cf96190d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>jonathan.stewart</sys_created_by>
+        <sys_created_on>2017-06-13 01:32:47</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>185d4c42db133200c9a15901cf9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>report_group.x_39452_atlas.guide</sys_name>
+        <sys_package display_value="Atlas" source="x_39452_atlas">e476e001db133200c9a15901cf961914</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
+        <sys_update_name>sys_user_role_contains_185d4c42db133200c9a15901cf9619d7</sys_update_name>
+        <sys_updated_by>jonathan.stewart</sys_updated_by>
+        <sys_updated_on>2017-06-13 01:32:47</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Mountain">a58828c1db133200c9a15901cf961905</application>
+        <application display_value="Atlas">a58828c1db133200c9a15901cf961905</application>
         <filter/>
         <name>Expeditions</name>
         <order/>
