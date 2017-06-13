@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="sherpa" table="x_39452_atlas_landmark">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="sherpa" table="x_39452_atlas_trail">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -33,7 +33,7 @@
         <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <name>x_39452_atlas_landmark</name>
+        <name>x_39452_atlas_trail</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -50,18 +50,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jonathan.stewart</sys_created_by>
-        <sys_created_on>2017-06-10 02:00:34</sys_created_on>
+        <sys_created_on>2017-06-13 17:03:57</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>0626f485db133200c9a15901cf96195d</sys_id>
+        <sys_id>21226382db133200c9a15901cf961986</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sherpa</sys_name>
         <sys_package display_value="Atlas" source="x_39452_atlas">e476e001db133200c9a15901cf961914</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
-        <sys_update_name>sys_dictionary_x_39452_atlas_landmark_sherpa</sys_update_name>
+        <sys_update_name>sys_dictionary_x_39452_atlas_trail_sherpa</sys_update_name>
         <sys_updated_by>jonathan.stewart</sys_updated_by>
-        <sys_updated_on>2017-06-10 02:00:34</sys_updated_on>
+        <sys_updated_on>2017-06-13 17:03:57</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

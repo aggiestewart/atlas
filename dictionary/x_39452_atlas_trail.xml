@@ -2,15 +2,19 @@
 <database>
     <element label="Trail" max_length="40" name="x_39452_atlas_trail" type="collection">
         <element label="Expedition" max_length="40" name="expedition" reference="x_39452_atlas_expedition" type="reference"/>
-        <element label="Guide" max_length="32" name="guide" reference="sys_user" type="reference"/>
+        <element label="Mountain" max_length="32" name="mountain" reference="x_39452_atlas_mountain" type="reference"/>
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Sherpa" max_length="32" name="sherpa" reference="sys_user" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Terrian" max_length="32" name="terrian" reference="x_39452_atlas_terrian" type="reference"/>
         <index name="index">
-            <element name="terrian"/>
+            <element name="mountain"/>
         </index>
         <index name="index2">
-            <element name="guide"/>
+            <element name="sherpa"/>
+        </index>
+        <index name="index3">
+            <element name="terrian"/>
         </index>
     </element>
 </database>
