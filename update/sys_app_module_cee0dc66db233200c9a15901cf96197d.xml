@@ -6,43 +6,41 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="sys_report">sys_scope=e476e001db133200c9a15901cf961914^EQ<item display_table="sys_scope" display_value="Atlas" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="e476e001db133200c9a15901cf961914"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>REPORT</link_type>
         <map_page/>
-        <mobile_title>Reports</mobile_title>
+        <mobile_title>Upcoming Mountain Targets</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>sys_report</name>
-        <order>500</order>
+        <name/>
+        <order>520</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
-        <report/>
+        <report display_value="Upcoming Targets by Quarter">f83470e2db133200c9a15901cf96198a</report>
         <roles/>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>jonathan.stewart</sys_created_by>
-        <sys_created_on>2017-06-14 17:25:37</sys_created_on>
+        <sys_created_on>2017-06-27 01:21:47</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>cde0b4a2db133200c9a15901cf961955</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Reports</sys_name>
+        <sys_id>cee0dc66db233200c9a15901cf96197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upcoming Mountain Targets</sys_name>
         <sys_overrides/>
         <sys_package display_value="Atlas" source="x_39452_atlas">e476e001db133200c9a15901cf961914</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
-        <sys_update_name>sys_app_module_cde0b4a2db133200c9a15901cf961955</sys_update_name>
+        <sys_update_name>sys_app_module_cee0dc66db233200c9a15901cf96197d</sys_update_name>
         <sys_updated_by>jonathan.stewart</sys_updated_by>
-        <sys_updated_on>2017-06-27 01:17:56</sys_updated_on>
+        <sys_updated_on>2017-06-27 01:21:47</sys_updated_on>
         <timeline_page/>
-        <title>Reports</title>
+        <title>Upcoming Mountain Targets</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

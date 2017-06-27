@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_39452_atlas_landmark_trail_rel" version="2" view="rpt-temp0def6c22db133200c9a15901cf961977jonathan.stewart">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>trail</element>
+            <list_id display_value="x_39452_atlas_landmark_trail_rel" element="NULL" name="x_39452_atlas_landmark_trail_rel" parent="NULL" relationship="NULL" sys_domain="global" view="7c5fcc66db233200c9a15901cf9619ec">260090a6db233200c9a15901cf961920</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>jonathan.stewart</sys_created_by>
+            <sys_created_on>2017-06-27 01:17:20</sys_created_on>
+            <sys_id>6a0090a6db233200c9a15901cf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jonathan.stewart</sys_updated_by>
+            <sys_updated_on>2017-06-27 01:17:20</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="x_39452_atlas_landmark_trail_rel" element="NULL" name="x_39452_atlas_landmark_trail_rel" parent="NULL" relationship="NULL" sys_domain="global" view="7c5fcc66db233200c9a15901cf9619ec">260090a6db233200c9a15901cf961920</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>jonathan.stewart</sys_created_by>
+            <sys_created_on>2017-06-27 01:17:20</sys_created_on>
+            <sys_id>ea0090a6db233200c9a15901cf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jonathan.stewart</sys_updated_by>
+            <sys_updated_on>2017-06-27 01:17:20</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_39452_atlas_landmark_trail_rel</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>jonathan.stewart</sys_created_by>
+            <sys_created_on>2017-06-27 01:17:20</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>260090a6db233200c9a15901cf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>jonathan.stewart</sys_updated_by>
+            <sys_updated_on>2017-06-27 01:17:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-temp0def6c22db133200c9a15901cf961977jonathan.stewart" name="rpt-temp0def6c22db133200c9a15901cf961977jonathan.stewart">7c5fcc66db233200c9a15901cf9619ec</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
