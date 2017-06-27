@@ -84,7 +84,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>jonathan.stewart</sys_created_by>
         <sys_created_on>2017-06-14 17:17:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b02fe022db133200c9a15901cf9619da</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>My Mountain's Trails</sys_name>

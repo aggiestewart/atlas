@@ -6,8 +6,9 @@
         <element label="Mountain" max_length="32" name="mountain" reference="x_39452_atlas_mountain" type="reference"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element label="Sherpa" max_length="32" name="sherpa" reference="sys_user" type="reference"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Terrian" max_length="32" name="terrian" reference="x_39452_atlas_terrian" type="reference"/>
+        <element dependent="u_landmark" dependent_on_field="u_landmark" label="Landmarks" max_length="32" name="u_landmark" reference="x_39452_atlas_landmark_trail_rel" type="reference" use_dependent_field="true"/>
         <index name="index">
             <element name="mountain"/>
         </index>
@@ -15,6 +16,12 @@
             <element name="sherpa"/>
         </index>
         <index name="index3">
+            <element name="expedition"/>
+        </index>
+        <index name="index4">
+            <element name="u_landmark"/>
+        </index>
+        <index name="index5">
             <element name="terrian"/>
         </index>
     </element>

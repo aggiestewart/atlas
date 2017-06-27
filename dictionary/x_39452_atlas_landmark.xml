@@ -2,7 +2,6 @@
 <database>
     <element label="Landmark" max_length="40" name="x_39452_atlas_landmark" type="collection">
         <element label="Name" max_length="40" name="name" type="string"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
-        <element label="Trail" max_length="40" name="trail" reference="x_39452_atlas_trail" type="glide_list"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
     </element>
 </database>

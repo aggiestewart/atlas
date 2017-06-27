@@ -83,7 +83,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>jonathan.stewart</sys_created_by>
         <sys_created_on>2017-06-14 17:29:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>64d134a2db133200c9a15901cf96193a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Trails by Sherpa</sys_name>

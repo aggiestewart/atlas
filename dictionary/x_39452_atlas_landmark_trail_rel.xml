@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Landmark to Trail Relationship" max_length="40" name="x_39452_atlas_landmark_trail_rel" type="collection">
+        <element label="Landmark" max_length="32" name="landmark" reference="x_39452_atlas_landmark" type="reference"/>
+        <element default="100" label="Order" max_length="40" name="order" type="integer"/>
+        <element label="Trail" max_length="32" name="trail" reference="x_39452_atlas_trail" type="reference"/>
+        <index name="index">
+            <element name="trail"/>
+        </index>
+        <index name="index2">
+            <element name="landmark"/>
+        </index>
+    </element>
+</database>

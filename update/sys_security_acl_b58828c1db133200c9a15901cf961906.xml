@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>jonathan.stewart</sys_created_by>
         <sys_created_on>2017-06-10 00:57:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b58828c1db133200c9a15901cf961906</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_39452_atlas_mountain</sys_name>

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_39452_atlas_trail" version="2" view="rpt-tempx_39452_atlas_trailjonathan.stewart">
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_39452_atlas_mountain" version="2" view="sys_ref_list">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_39452_atlas_trail" element="NULL" name="x_39452_atlas_trail" parent="NULL" relationship="NULL" sys_domain="global" view="ab1fa022db133200c9a15901cf961990">bcd57ce2db133200c9a15901cf96192a</list_id>
+            <list_id display_value="x_39452_atlas_mountain" element="NULL" name="x_39452_atlas_mountain" parent="NULL" relationship="NULL" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">7a45c8a2db233200c9a15901cf9619f1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>jonathan.stewart</sys_created_by>
-            <sys_created_on>2017-06-14 17:46:44</sys_created_on>
-            <sys_id>f0d57ce2db133200c9a15901cf96192b</sys_id>
+            <sys_created_on>2017-06-27 00:30:23</sys_created_on>
+            <sys_id>be45c8a2db233200c9a15901cf9619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jonathan.stewart</sys_updated_by>
-            <sys_updated_on>2017-06-14 17:46:44</sys_updated_on>
+            <sys_updated_on>2017-06-27 00:30:23</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element/>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <name>x_39452_atlas_trail</name>
+            <name>x_39452_atlas_mountain</name>
             <parent/>
             <position/>
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>jonathan.stewart</sys_created_by>
-            <sys_created_on>2017-06-14 17:46:44</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2017-06-27 00:30:23</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bcd57ce2db133200c9a15901cf96192a</sys_id>
+            <sys_id>7a45c8a2db233200c9a15901cf9619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name/>
-            <sys_package/>
+            <sys_name>x_39452_atlas_mountain</sys_name>
+            <sys_package display_value="Atlas" source="x_39452_atlas">e476e001db133200c9a15901cf961914</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
-            <sys_update_name/>
+            <sys_update_name>sys_ui_list_x_39452_atlas_mountain_sys_ref_list</sys_update_name>
             <sys_updated_by>jonathan.stewart</sys_updated_by>
-            <sys_updated_on>2017-06-14 17:46:44</sys_updated_on>
+            <sys_updated_on>2017-06-27 00:30:23</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt-tempx_39452_atlas_trailjonathan.stewart" name="rpt-tempx_39452_atlas_trailjonathan.stewart">ab1fa022db133200c9a15901cf961990</view>
+            <view display_value="Reference List" name="sys_ref_list">1b2f1723f5213200a21cc3267c0bd580</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

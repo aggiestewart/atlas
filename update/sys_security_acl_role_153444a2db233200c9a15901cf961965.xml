@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jonathan.stewart</sys_created_by>
+        <sys_created_on>2017-06-27 00:25:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>153444a2db233200c9a15901cf961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_39452_atlas_landmark_trail_rel.x_39452_atlas_landmark_to_trail_relationship_user</sys_name>
+        <sys_package display_value="Atlas" source="x_39452_atlas">e476e001db133200c9a15901cf961914</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Atlas">e476e001db133200c9a15901cf961914</sys_scope>
+        <sys_security_acl display_value="x_39452_atlas_landmark_trail_rel">d53444a2db233200c9a15901cf961964</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_153444a2db233200c9a15901cf961965</sys_update_name>
+        <sys_updated_by>jonathan.stewart</sys_updated_by>
+        <sys_updated_on>2017-06-27 00:25:38</sys_updated_on>
+        <sys_user_role display_value="x_39452_atlas_landmark_to_trail_relationship_user" name="x_39452_atlas_landmark_to_trail_relationship_user">243440a2db233200c9a15901cf9619a6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
